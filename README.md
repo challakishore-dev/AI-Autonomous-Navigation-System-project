@@ -25,6 +25,7 @@ Apply A* algorithm
 Generate optimal path
 Visualize navigation
 🚀 Results
+
 🔴 YOLO Detection
 
 <img width="640" height="480" alt="01_yolo_detection" src="https://github.com/user-attachments/assets/d7a844f9-87ce-4c40-b581-520aa88b1856" />
